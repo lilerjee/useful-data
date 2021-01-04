@@ -64,7 +64,7 @@ DZ,Algeria,1974,.dz,DZ
 EC,Ecuador,1974,.ec,EC
 EE,Estonia,1992,.ee,EE
 EG,Egypt,1974,.eg,EG
-EH,Western Sahara,1974,	EH
+EH,Western Sahara,1974,,EH
 ER,Eritrea,1993,.er,ER
 ES,Spain,1974,.es,ES
 ET,Ethiopia,1974,.et,ET
@@ -230,7 +230,7 @@ TW,"Taiwan, Province of China",1974,.tw,TW
 TZ,"Tanzania, United Republic of",1974,.tz,TZ
 UA,Ukraine,1974,.ua,UA
 UG,Uganda,1974,.ug,UG
-UM,United States Minor Outlying Islands,1986,	UM
+UM,United States Minor Outlying Islands,1986,,UM
 US,United States of America,1974,.us,US
 UY,Uruguay,1974,.uy,UY
 UZ,Uzbekistan,1992,.uz,UZ
